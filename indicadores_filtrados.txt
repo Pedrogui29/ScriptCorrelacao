@@ -1,0 +1,30 @@
+Indicator Code: BRGDP0001
+Description: Índice de Atividade Econômica - IBC-BR
+
+Indicator Code: BRGDP0081
+Description: PIB - 4intelligence
+
+Indicator Code: BRGDP0002
+Description: PIB - IBGE
+
+Indicator Code: BRPRC0046
+Description: Índice de Preços ao Consumidor Amplo - IPCA
+
+Indicator Code: BRIND0001
+Description: Indústria Geral - PIM
+
+Indicator Code: BRRTL0021
+Description: Vendas - Comércio Geral - Restrita - PMC-R
+
+Indicator Code: BRRTL0022
+Description: Vendas - Comércio Geral - Ampliado - PMC-A
+
+Indicator Code: BREMP0018
+Description: Taxa de Desemprego - PNADcM
+
+Indicator Code: BRSER0001
+Description: Volume - Serviços Geral - PMS
+
+Indicator Code: BREMP0006
+Description: Saldo - Caged Unificado - Emprego formal
+
