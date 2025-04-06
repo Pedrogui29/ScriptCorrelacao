@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ScriptCorrelacao',  # Nome do seu pacote
-    version='0.1',  # Versão do seu pacote
+    version='1.0.5',  # Versão do seu pacote
     packages=find_packages(),  # Para descobrir automaticamente os pacotes na estrutura de diretórios
     install_requires=[  # Dependências externas que seu pacote pode precisar
         'numpy',  # Exemplo de dependência
