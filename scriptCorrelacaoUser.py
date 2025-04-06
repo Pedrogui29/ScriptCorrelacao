@@ -113,7 +113,7 @@ def calculate_correlation(data1, data2):
 
 # Função principal para buscar os dados e calcular a correlação
 def main():
-    token = 'meu token'
+    token = 'GH_SECRET'
     # Passo 1: Obter os indicadores e séries disponíveis
     print("Buscando indicadores e séries disponíveis...")
     indicators = get_available_indicators_and_series(token)

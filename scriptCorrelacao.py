@@ -71,7 +71,7 @@ def calculate_correlation(data1, data2):
 
 # Função principal para buscar os dados e calcular a correlação
 def main():
-    token = 'meu token'
+    token = 'GH_SECRET'
     # Defina os códigos dos indicadores e das séries que você deseja usar
     indicator_code = "BRPRC0046"  # Exemplo de código de indicador
     series_code_1 = "BRPRC0046000OOML"  # Código da primeira série

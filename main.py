@@ -1,7 +1,7 @@
 import requests
 import json
 
-token = 'meu token'
+token = 'GH_SECRET'
 #List of indicators
 url = "https://apis.4intelligence.ai/api-feature-store/api/v1/indicators?limit=4000"
 
