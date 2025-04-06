@@ -69,4 +69,5 @@ jobs:
         with:
           packages-dir: dist/
         env:
-          PYPI_TOKEN: ${{ secrets.GH_SECRET }}
+          PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
+          GH_SECRETS: ${{ secrets.GH_SECRET }}
