@@ -61,4 +61,4 @@ jobs:
         with:
           packages-dir: dist/
         env:
-          PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}  
+          PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}

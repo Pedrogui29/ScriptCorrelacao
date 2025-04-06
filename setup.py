@@ -13,7 +13,7 @@ setup(
     description='Pacote para análise de correlação entre séries temporais',  # Uma breve descrição do pacote
     long_description=open('README.md').read(),  # Um arquivo README.md para detalhes adicionais
     long_description_content_type='text/markdown',  # Tipo de conteúdo do README
-    author='Seu Nome',  # Seu nome
+    author='Pedro Guilherme Fernandes Oliveira',  # Seu nome
     author_email='pedropgfo@gmail.com',  # Seu e-mail
     url='https://github.com/Pedrogui29/ScriptCorrelacao',  # URL do repositório do projeto
     classifiers=[  # Classificações que ajudam a categorizar seu pacote
